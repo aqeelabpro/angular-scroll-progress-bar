@@ -25,3 +25,5 @@ ng s -o
 Access it at http://localhost:4200
 
 <img width="672" alt="Screenshot 2024-01-31 at 12 28 25 PM" src="https://github.com/aqeelabpro/angular-scroll-progress-bar/assets/93031839/9bc66684-d4b4-44ec-936c-01defcfbb8a4">
+
+Happy Coding!
